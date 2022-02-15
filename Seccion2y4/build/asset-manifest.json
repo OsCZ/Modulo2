@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7f422e71.css",
+    "main.js": "/static/js/main.837a3a38.js",
+    "static/js/787.edd59a96.chunk.js": "/static/js/787.edd59a96.chunk.js",
+    "static/media/batman.jpg": "/static/media/batman.22c9f0b71efc00859ccd.jpg",
+    "static/media/wonderwoman.jpg": "/static/media/wonderwoman.8f5aecc84a95ef61860a.jpg",
+    "static/media/superman.jpg": "/static/media/superman.b54a04da9c81c1a18a16.jpg",
+    "index.html": "/index.html",
+    "main.7f422e71.css.map": "/static/css/main.7f422e71.css.map",
+    "main.837a3a38.js.map": "/static/js/main.837a3a38.js.map",
+    "787.edd59a96.chunk.js.map": "/static/js/787.edd59a96.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f422e71.css",
+    "static/js/main.837a3a38.js"
+  ]
+}
